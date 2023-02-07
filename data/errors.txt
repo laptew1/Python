@@ -1,0 +1,22 @@
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
+2022-10-01 11:04:16.760579	[Errno 2] No such file or directory: 'data/nums.txt'
+2022-10-01 11:05:44.200896	[Errno 2] No such file or directory: 'data/nums.txt'
+ERROR IN LINE qwerty
+invalid literal for int() with base 10: 'qwerty'
